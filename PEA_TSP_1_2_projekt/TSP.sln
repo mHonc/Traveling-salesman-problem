@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TSP", "TSP\TSP.vcxproj", "{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}.Debug|x64.ActiveCfg = Debug|x64
+		{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}.Debug|x64.Build.0 = Debug|x64
+		{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}.Debug|x86.Build.0 = Debug|Win32
+		{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}.Release|x64.ActiveCfg = Release|x64
+		{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}.Release|x64.Build.0 = Release|x64
+		{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}.Release|x86.ActiveCfg = Release|Win32
+		{9E94681A-91B1-44F8-9E0D-CC66B6A6D7AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {239A3AB2-CD40-481B-B311-C3EB4B6565E8}
+	EndGlobalSection
+EndGlobal
